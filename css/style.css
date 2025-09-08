@@ -4,6 +4,8 @@ body {
 p {
     color: blue;
     font-size: 24px;
+    font-style: italic;
+    text-decoration: underline;
 }
 .logo{
     width: 233px;
