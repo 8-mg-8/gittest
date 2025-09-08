@@ -10,3 +10,9 @@ p {
 .logo{
     width: 233px;
 }
+
+hr {
+    width: 50%;
+    size: 20px;
+    background-color: blueviolet;
+}
